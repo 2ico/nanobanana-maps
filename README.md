@@ -1,11 +1,20 @@
 <div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="2318" height="1664" alt="image" src="https://github.com/user-attachments/assets/1d44fbf2-ed5c-4c79-b7b2-a8822cd535ec" />
 
-  <h1>Built with AI Studio</h2>
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+# Google Maps style transfer w Nano Banana
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+Try it: https://google-maps-style-transfer-136360905635.us-west1.run.app/
 
-</div>
+AI Studio url: https://ai.studio/apps/drive/1fJh215AYGPoSUahKynwDWHWkUAr0LivM
+
+
+## Run locally
+
+Set the following in your env
+
+```
+MAPS_API_KEY=
+GEMINI_CUSTOM_API_KEY=
+```
